@@ -10,7 +10,7 @@ It provides a RESTful API to manage student data with basic CRUD operations.
 - Update student details
 - Delete student
 
-##  Tech Stack
+## Tech Stack
 - Python
 - Flask
 - SQLite
